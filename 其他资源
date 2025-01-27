@@ -1,0 +1,7 @@
+API 文档：如果您希望通过 API 进行调用，DeepSeek 提供了详细的 API 文档，您可以参考以下链接：
+https://api-docs.deepseek.com/zh-cn/guides/reasoning_model
+
+Hugging Face 模型库：DeepSeek 还在 Hugging Face 上发布了 DeepSeek-R1 模型，方便社区进行下载和使用：
+Hugging Face 页面：https://huggingface.co/deepseek-ai
+
+
